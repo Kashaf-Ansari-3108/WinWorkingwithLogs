@@ -1,0 +1,13 @@
+E:\FUUAST\Semester 5\Visual Programming\Cleaning Service Screen\WinGeorgetownCleaningService\bin\Debug\WinGeorgetownCleaningService.exe.config
+E:\FUUAST\Semester 5\Visual Programming\Cleaning Service Screen\WinGeorgetownCleaningService\bin\Debug\WinGeorgetownCleaningService.exe
+E:\FUUAST\Semester 5\Visual Programming\Cleaning Service Screen\WinGeorgetownCleaningService\bin\Debug\WinGeorgetownCleaningService.pdb
+E:\FUUAST\Semester 5\Visual Programming\Cleaning Service Screen\WinGeorgetownCleaningService\obj\Debug\WinGeorgetownCleaningService.csproj.AssemblyReference.cache
+E:\FUUAST\Semester 5\Visual Programming\Cleaning Service Screen\WinGeorgetownCleaningService\obj\Debug\WinGeorgetownCleaningService.csproj.SuggestedBindingRedirects.cache
+E:\FUUAST\Semester 5\Visual Programming\Cleaning Service Screen\WinGeorgetownCleaningService\obj\Debug\WinGeorgetownCleaningService.Form1.resources
+E:\FUUAST\Semester 5\Visual Programming\Cleaning Service Screen\WinGeorgetownCleaningService\obj\Debug\WinGeorgetownCleaningService.Properties.Resources.resources
+E:\FUUAST\Semester 5\Visual Programming\Cleaning Service Screen\WinGeorgetownCleaningService\obj\Debug\WinGeorgetownCleaningService.csproj.GenerateResource.cache
+E:\FUUAST\Semester 5\Visual Programming\Cleaning Service Screen\WinGeorgetownCleaningService\obj\Debug\WinGeorgetownCleaningService.csproj.CoreCompileInputs.cache
+E:\FUUAST\Semester 5\Visual Programming\Cleaning Service Screen\WinGeorgetownCleaningService\obj\Debug\WinGeorgetownCleaningService.exe
+E:\FUUAST\Semester 5\Visual Programming\Cleaning Service Screen\WinGeorgetownCleaningService\obj\Debug\WinGeorgetownCleaningService.pdb
+E:\FUUAST\Semester 5\Visual Programming\Cleaning Service Screen\WinGeorgetownCleaningService\bin\Debug\IrisSkin2.dll
+E:\FUUAST\Semester 5\Visual Programming\Cleaning Service Screen\WinGeorgetownCleaningService\obj\Debug\WinGeorgetownCleaningService.csproj.CopyComplete
